@@ -1,0 +1,7 @@
+D:/College/Licenta/Archaeo-Astro Insight
+D:/College/Licenta/Archaeo-Astro Insight/results
+C:/Program Files/R/R-4.0.5/bin/x64/Rscript
+Yes
+Satellite
+0.5
+2
